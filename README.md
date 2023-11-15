@@ -1,4 +1,6 @@
-# Δ-PINNs: physics-informed neural networks on complex geometries
+# [Δ-PINNs: physics-informed neural networks on complex geometries](https://www.sciencedirect.com/science/article/pii/S0952197623015087)
+
+
 
 Francisco Sahli Costabal, Simone Pezzuto, Paris Perdikaris
 
